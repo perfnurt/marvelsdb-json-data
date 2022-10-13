@@ -414,7 +414,7 @@
 		"code": "01019b",
 		"deck_limit": 1,
 		"faction_code": "hero",
-		"flavor": "\"I can turn into a Hulk anytime I want. But just because you can do something doesn't always mean you should.",
+		"flavor": "\"I can turn into a Hulk anytime I want. But just because you can do something doesn't always mean you should.\"",
 		"hand_size": 6,
 		"health": 15,
 		"hidden": true,
