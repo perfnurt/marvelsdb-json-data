@@ -1,5 +1,5 @@
 # to_csv.py reads all card .json's and produces (stdout) one big tab-separated csv file will all card info.
-# *  Linebreaks converted to \n
+# *  Linebreaks converted to \\n
 # *  Confusion may arise in certain csv readers if there is a quote mismatch, writing to stderr if
 #    a field contains an odd number of quote characters. Mitigation is to adjust the card data.
 # *  linked_card represented just like any other card
@@ -41,7 +41,7 @@ def get_all_cards():
     return  all_cards
 
 # add_card appends the card to the cards_out array and
-# all relevant fields to thefields set.
+# all relevant fields to the fields set.
 def add_card(card, cards_out, fields):
     c = {}
     for f in card.keys():
