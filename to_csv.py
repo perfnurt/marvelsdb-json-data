@@ -1,14 +1,14 @@
-# to_csv.py reads all card .json's and produces (stdout) one big tab-separated csv file will all card info.
+# to_csv.py reads all card .json's and produces (stdout) one big tab-separated 
+# csv file with all card info.
+# Usage: python3 to_csv.py >csv/all_cards.csv
 # *  Linebreaks converted to \\n
-# *  Confusion may arise in certain csv readers if there is a quote mismatch, writing to stderr if
-#    a field contains an odd number of quote characters. Mitigation is to adjust the card data.
+# *  Confusion may arise in certain csv readers if there is a quote mismatch. 
+#    Writing to stderr if a field contains an odd number of quote characters.
+#    Mitigation is to adjust the card data.
 # *  linked_card represented just like any other card
 import json
 import os
 import sys
-
-def eprint(*args, **kwargs):
-    print(*args, file=sys.stderr, **kwargs)
 
 def load_json_file(path):
     with open(path, "r") as f: return json.loads(f.read())
@@ -51,6 +51,10 @@ def add_card(card, cards_out, fields):
             c[f]=str(card[f]).replace('\n', '\\n')
     cards_out.append(c)
 
+# eprint prints to stderr
+def eprint(*args, **kwargs):
+    print(*args, file=sys.stderr, **kwargs)
+
 def main():
     fields = set()
     cards_out = []
@@ -59,7 +63,7 @@ def main():
         if "linked_card" in card:
             add_card(card["linked_card"], cards_out, fields)
 
-    # sort the fields alphabetically to ensure consistent/deterministic output
+    # sort the fields alphabetically to ensure deterministic output
     fields = sorted(fields)
     print("\t".join(fields))
     for c in cards_out:
