@@ -21,7 +21,7 @@ def load_cards(fmt, pack, sets):
     if os.path.isfile(path):
         cards = load_json_file(path)
         for c in cards:
-            c["pack_name"] = p["name"]
+            c["pack_name"] = pack["name"]
             if "set_code" in c:
                 c["set_name"] = sets[c["set_code"]]["name"]
         return cards
