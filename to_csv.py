@@ -40,7 +40,7 @@ def get_all_cards():
         if c: all_cards += c
     return  all_cards
 
-# add_card appends the card to the cards_out array and
+# add_card adds the card to the cards_out dictionary and
 # all relevant fields to the fields set.
 def add_card(card, cards_out, fields):
     c = {}
@@ -49,7 +49,7 @@ def add_card(card, cards_out, fields):
         if not type(card[f]) is dict:
             fields.add(f)
             c[f]=str(card[f]).replace('\n', '\\n')
-    cards_out.append(c)
+    cards_out[c["code"]] = c
 
 # eprint prints to stderr
 def eprint(*args, **kwargs):
@@ -57,16 +57,25 @@ def eprint(*args, **kwargs):
 
 def main():
     fields = set()
-    cards_out = []
+    cards_out = {}
     for card in get_all_cards():
         add_card(card, cards_out, fields)
         if "linked_card" in card:
             add_card(card["linked_card"], cards_out, fields)
 
+    # Resolve duplicates by making the duplicate a copy of its original    
+    for code in cards_out:
+        c = cards_out[code]
+        if "duplicate_of" in c:
+            cards_out[code] = cards_out[c["duplicate_of"]].copy()
+            for f in c:
+                cards_out[code][f]=c[f]
+
     # sort the fields alphabetically to ensure deterministic output
     fields = sorted(fields)
     print("\t".join(fields))
-    for c in cards_out:
+    for code in cards_out:
+        c = cards_out[code]
         csv_line = []
         for f in fields:
             if f in c:
