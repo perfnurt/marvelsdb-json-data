@@ -2,13 +2,13 @@
 	{
 		"code": "32001a",
 		"name": "Colossus",
-		"text": "Colossus can have 1 additional tough status card.\n<i>Steel Skin</i> – <b>Response</b>: After you change to this form, give Colossus a tough status card.",
+		"text": "Colossus can have 1 additional tough status card.\n<i>Steel Skin</i> - <b>Response</b>: After you change to this form, give Colossus a tough status card.",
 		"traits": "X-Men."
 	},
 	{
 		"code": "32001b",
 		"name": "Piotr Rasputin",
-		"text": "<b>Setup</b>: Search your deck for a copy of Organic Steel and add it to your hand.\n<i>Aspiring Artist</i> – <b>Response</b>: After you change to this form, shuffle a Colossus card from your discard pile into your deck.",
+		"text": "<b>Setup</b>: Search your deck for a copy of Organic Steel and add it to your hand.\n<i>Aspiring Artist</i> - <b>Response</b>: After you change to this form, shuffle a Colossus card from your discard pile into your deck.",
 		"traits": "Mutant."
 	},
 	{
@@ -51,13 +51,13 @@
 	{
 		"code": "32008",
 		"name": "Steel Fist",
-		"text": "<b>Hero Action</b>: Deal 5 damage to an enemu. You may discard a tough status card from your hero → stun and confuse that enemy.",
+		"text": "<b>Hero Action</b>: Deal 5 damage to an enemy. You may discard a tough status card from your hero → stun and confuse that enemy.",
 		"traits": "Attack. Superpower."
 	},
 	{
 		"code": "32009",
 		"name": "Bulletproof Protector",
-		"text": "<b>Hero Action</b>: Discard a tough status card from your hero → choose :\n• Give your hero 2 tough status cards.\n• Ready your hero.",
+		"text": "<b>Hero Action</b>: Discard a tough status card from your hero → choose:\n• Give your hero 2 tough status cards.\n• Ready your hero.",
 		"traits": "Superpower."
 	},
 	{
@@ -100,7 +100,7 @@
 	},
 	{
 		"code": "32017",
-		"name": "Mutant Protection",
+		"name": "Mutant Protectors",
 		"text": "Play only if your identity has the [[X-MEN]] trait.\n<b>Hero Interrupt</b> <i>(defense)</i>: When an enemy attacks, put an [[X-MEN]] ally into play from your hand. Exhaust it and declare it the defender for this attack.",
 		"traits": "Defense."
 	},
@@ -113,7 +113,7 @@
 		"code": "32019",
 		"name": "Professor X",
 		"subname": "Charles Xavier",
-		"text": "<b>Forced Response</b>: After Professor X enters play, choose one : confuse the villain, stun a minion, or ready an [[X-MEN]] character. At the end of the round, if Professor X is still in play, discard him.",
+		"text": "<b>Forced Response</b>: After Professor X enters play, choose one: confuse the villain, stun a minion, or ready an [[X-MEN]] character. At the end of the round, if Professor X is still in play, discard him.",
 		"traits": "Psionic. X-Men."
 	},
 	{
@@ -125,19 +125,19 @@
 	{
 		"code": "32021",
 		"name": "Shadow and Steel",
-		"text": "Team-Up (Colossus and Shadowcat).\nMax 1 per deck.\n\n<b>Hero Interrupt</b> <i>(attack/defense)</i>: When an enemy attacks, prevent all damage from that attack and deal 4 damage to the attacking enemy.",
+		"text": "Team-Up (Colossus and Shadowcat).\nMax 1 per deck.\n<b>Hero Interrupt</b> <i>(attack/defense)</i>: When an enemy attacks, prevent all damage from that attack and deal 4 damage to the attacking enemy.",
 		"traits": "Attack. Defense."
 	},
 	{
 		"code": "32030a",
 		"name": "Shadowcat",
-		"text": "<i>Selective Intangibility</i> – While you are in Phased mass form, Shadowcat ignores the guard and patrol keywords, and any crisis icons ([crisis]) in play.",
+		"text": "<i>Selective Intangibility</i> - While you are in Phased mass form, Shadowcat ignores the guard and patrol keywords, and any crisis icons ([crisis]) in play.",
 		"traits": "X-Men."
 	},
 	{
 		"code": "32030b",
 		"name": "Kitty Pride",
-		"text": "<b>Setup</b>: Put your mass form upgrade into play, Solid side faceup.\n<i>Phase Control</i> – <b>Action</b>: Flip your mass form upgrade. (Limit once per round.)",
+		"text": "<b>Setup</b>: Put your mass form upgrade into play, Solid side faceup.\n<i>Phase Control</i> - <b>Action</b>: Flip your mass form upgrade. (Limit once per round.)",
 		"traits": "Mutant."
 	},
 	{
@@ -256,7 +256,7 @@
 	{
 		"code": "32051",
 		"name": "Ready to Rumble",
-		"text": "Play under any player's control.\nMax 1 per_player.\n<b>Hero Response</b>: After you change form, discard this card → ready your hero.",
+		"text": "Play under any player's control.\nMax 1 per_hero.\n<b>Hero Response</b>: After you change form, discard this card → ready your hero.",
 		"traits": "Condition."
 	},
 	{

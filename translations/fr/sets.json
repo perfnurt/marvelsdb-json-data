@@ -144,6 +144,10 @@
     "name": "Intérêt Général"
   },
   {
+    "code": "crime",
+    "name": "Crime"
+  },
+  {
     "code": "crossbones",
     "name": "Crossbones"
   },
@@ -158,6 +162,10 @@
   {
     "code": "cyclops_nemesis",
     "name": "Némésis de Cyclope"
+  },
+  {
+    "code": "deathstrike",
+    "name": "Deathstrike"
   },
   {
     "code": "defender",
@@ -192,6 +200,10 @@
     "name": "L'Enchanteresse"
   },
   {
+    "code": "exodus", 
+    "name": "Exodus"
+  },
+  {
     "code": "exp_kang",
     "name": "Kang Expert"
   },
@@ -212,6 +224,10 @@
     "name": "Expert II"
   },
   {
+    "code": "fantasy",
+    "name": "Fantasy"
+  },
+  {
     "code": "frost_giants",
     "name": "Géants de Glace"
   },
@@ -230,6 +246,14 @@
   {
     "code": "gam_nemesis",
     "name": "Némésis de Gamora"
+  },
+  {
+    "code": "gambit", 
+    "name": "Gambit"
+  },
+  {
+    "code": "gambit_nemesis", 
+    "name": "Némésis de Gambit"
   },
   {
     "code": "ghost_spider",
@@ -270,6 +294,10 @@
   {
     "code": "hela",
     "name": "Hela"
+  },
+  {
+    "code": "horror",
+    "name": "Horreur"
   },
   {
     "code": "hulk",
@@ -352,8 +380,16 @@
     "name": "Loki"
   },
   {
+    "code": "longshot",
+    "name": "Longshot"
+  },
+  {
     "code": "magneto",
     "name": "Magnéto"
+  },
+  {
+    "code": "magog",
+    "name": "MaGog"
   },
   {
     "code": "mansion_attack",
@@ -363,6 +399,7 @@
     "code": "master_mold",
     "name": "Moule Initial"
   },
+  {
     "code": "masters_of_evil",
     "name": "Maîtres du Mal"
   },
@@ -373,6 +410,10 @@
   {
     "code": "mister_hyde",
     "name": "Mister Hyde"
+  },
+  {
+    "code": "mojo",
+    "name": "Mojo"
   },
   {
     "code": "mot",
@@ -391,7 +432,6 @@
     "name": "Campage L'Ombre du Titan Fou"
   },
   {
-  {
     "code": "mut_gen",
     "name": "La Genèse des Mutants"
   },
@@ -399,6 +439,7 @@
     "code": "mut_gen_campaign",
     "name": "Campagne La Genèse des Mutants"
   },
+  {
     "code": "mutagen_formula",
     "name": "Formule Mutagène"
   },
@@ -444,7 +485,7 @@
   },
   {
     "code": "phoenix",
-    "name": "Phénix",
+    "name": "Phénix"
   },
   {
     "code": "phoenix_nemesis",
@@ -479,6 +520,10 @@
     "name": "Armurerie Pillée"
   },
   {
+    "code": "reavers", 
+    "name": "Reavers"
+  },
+  {
     "code": "red_skull",
     "name": "Crâne Rouge"
   },
@@ -499,6 +544,14 @@
     "name": "Némésis de Rocket Raccoon"
   },
   {
+    "code": "rogue", 
+    "name": "Malicia"
+  },
+  {
+    "code": "rogue_nemesis", 
+    "name": "Némésis de Malicia"
+  },
+  {
     "code": "ronan",
     "name": "Ronan"
   },
@@ -515,6 +568,10 @@
     "name": "L'Homme-Sable"
   },
   {
+    "code": "sci-fi",
+    "name": "Science-Fiction"
+  },
+  {
     "code": "scw",
     "name": "La Sorcière Rouge"
   },
@@ -525,6 +582,10 @@
   {
     "code": "sentinels",
     "name": "Sentinelles"
+  },
+  {
+    "code": "shadow_king",
+    "name": "Le Roi d'Ombre"
   },
   {
     "code": "shadowcat",
@@ -561,6 +622,10 @@
   {
     "code": "sinister_syndicate",
     "name": "Sinistre Syndicat"
+  },
+  {
+    "code": "sitcom",
+    "name": "Sitcom"
   },
   {
     "code": "snitches_get_stitches",
@@ -619,6 +684,10 @@
     "name": "Némésis de Spider-Woman"
   },
   {
+    "code": "spiral",
+    "name": "Spirale"
+  },
+  {
     "code": "standard",
     "name": "Standard"
   },
@@ -639,9 +708,17 @@
     "name": "Némésis de Star-Lord"
   },
   {
+    "code": "storm",
+    "name": "Tornade"
+  },
+  {
+    "code": "storm_nemesis",
+    "name": "Némésis de Tornade"
+  },
+  {
     "code": "streets_of_mayhem",
     "name": "Rues Malfamées"
-  },},
+  },
   {
     "code": "symbiotic_strength",
     "name": "Force Symbiotique"
@@ -747,8 +824,24 @@
     "name": "Maîtrise des Armes"
   },
   {
+    "code": "weather",
+    "name": "Deck Climat"
+  },
+  {
+    "code": "western",
+    "name": "Western"
+  },
+  {
     "code": "whispers_of_paranoia",
     "name": "Murmures de Paranoïa"
+  },
+  {
+    "code": "wolverine",
+    "name": "Wolverine"
+  },
+  {
+    "code": "wolverine_nemesis",
+    "name": "Némésis de Wolverine"
   },
   {
     "code": "wrecker",

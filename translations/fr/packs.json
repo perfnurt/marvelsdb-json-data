@@ -32,6 +32,10 @@
 		"name": "Gamora"
 	},
 	{
+		"code": "gambit",
+		"name": "Gambit"
+	},
+	{
 		"code": "gmw",
 		"name": "Convoitise Galactique"
 	},
@@ -52,6 +56,10 @@
 		"name": "Ironheart"
 	},
 	{
+		"code": "mojo",
+		"name": "MojoMania"
+	},
+	{
 		"code": "msm",
 		"name": "Miss Marvel"
 	},
@@ -62,7 +70,7 @@
 	{
 		"code": "mut_gen",
 		"name": "La Genèse des Mutants"
-	},	
+	},
 	{
 		"code": "nebu",
 		"name": "Nebula"
@@ -78,6 +86,10 @@
 	{
 		"code": "qsv",
 		"name": "Vif-Argent"
+	},
+	{
+		"code": "rogue",	
+		"name": "Malicia"
 	},
 	{
 		"code": "ron",
@@ -102,6 +114,10 @@
 	{
 		"code": "stld",
 		"name": "Star-Lord"
+	},
+	{
+		"code": "storm",
+		"name": "Tornade"
 	},
 	{
 		"code": "thor",
@@ -134,6 +150,10 @@
 	{
 		"code": "warm",
 		"name": "War Machine"
+	},
+	{
+		"code": "wolv",
+		"name": "Wolverine"
 	},
 	{
 		"code": "wsp",
