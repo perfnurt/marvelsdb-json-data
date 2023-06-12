@@ -9,9 +9,13 @@
 import json
 import os
 import sys
+import io
+
+# For giving \n ending output when printing regardless of OS
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, newline='\n', encoding="utf-8" )
 
 def load_json_file(path):
-    with open(path, "r") as f: return json.loads(f.read())
+    with open(path, "r", encoding="utf-8") as f: return json.loads(f.read())
 
 # load_cards returns the cards defined in a json file
 # Returns None if file doesn't exist
