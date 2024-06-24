@@ -441,7 +441,7 @@
 	{
 		"code": "brotherhood_of_badoon",
 		"name": "Brotherhood Of Badoon",
-		"card_set_type_code": "modular"
+		"card_set_type_code": "villain"
 	},
 	{
 		"code": "collector1",
@@ -475,7 +475,7 @@
 	},
 	{
 		"code": "kree_militant",
-		"name": "Kree Militant",
+		"name": "Kree Militants",
 		"card_set_type_code": "modular"
 	},
 	{
@@ -1086,6 +1086,296 @@
 	{
 		"code": "reavers",
 		"name": "Reavers",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "cable",
+		"name": "Cable",
+		"card_set_type_code": "hero"
+	},
+	{
+		"code": "cable_nemesis",
+		"name": "Cable Nemesis",
+		"card_set_type_code": "nemesis"
+	},
+	{
+		"code": "domino",
+		"name": "Domino",
+		"card_set_type_code": "hero"
+	},
+	{
+		"code": "domino_nemesis",
+		"name": "Domino Nemesis",
+		"card_set_type_code": "nemesis"
+	},
+	{
+		"code": "marauders",
+		"name": "Marauders",
+		"card_set_type_code": "villain"
+	},
+	{
+		"code": "morlock_siege",
+		"name": "Morlock Siege",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "military_grade",
+		"name": "Military Grade",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "mutant_slayers",
+		"name": "Mutant Slayers",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "on_the_run",
+		"name": "On the Run",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "nasty_boys",
+		"name": "Nasty Boys",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "juggernaut",
+		"name": "Juggernaut",
+		"card_set_type_code": "villain"
+	},
+	{
+		"code": "hope_summers",
+		"name": "Hope Summers",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "black_tom_cassidy",
+		"name": "Black Tom Cassidy",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "mister_sinister",
+		"name": "Mister Sinister",
+		"card_set_type_code": "villain"
+	},
+	{
+		"code": "flight",
+		"name": "Flight",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "super_strength",
+		"name": "Super Strength",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "telepathy",
+		"name": "Telepathy",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "stryfe",
+		"name": "Stryfe",
+		"card_set_type_code": "villain"
+	},
+	{
+		"code": "extreme_measures",
+		"name": "Extreme Measures",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "mutant_insurrection",
+		"name": "Mutant Insurrection",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "next_evol_campaign",
+		"name": "Next Evolution Campaign",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "psylocke",
+		"name": "Psylocke",
+		"card_set_type_code": "hero"
+	},
+	{
+		"code": "psylocke_nemesis",
+		"name": "Psylocke Nemesis",
+		"card_set_type_code": "nemesis"
+	},
+	{
+		"code": "angel",
+		"name": "Angel",
+		"card_set_type_code": "hero"
+	},
+	{
+		"code": "angel_nemesis",
+		"name": "Angel Nemesis",
+		"card_set_type_code": "nemesis"
+	},
+	{
+		"code": "x23",
+		"name": "X-23",
+		"card_set_type_code": "hero"
+	},
+	{
+		"code": "x23_nemesis",
+		"name": "X-23 Nemesis",
+		"card_set_type_code": "nemesis"
+	},
+	{
+		"code": "deadpool",
+		"name": "Deadpool",
+		"card_set_type_code": "hero"
+	},
+	{
+		"code": "deadpool_nemesis",
+		"name": "Deadpool Nemesis",
+		"card_set_type_code": "nemesis"
+	},
+	{
+		"code": "dreadpool",
+		"name": "Dreadpool",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "bishop",
+		"name": "Bishop",
+		"card_set_type_code": "hero"
+	},
+	{
+		"code": "bishop_nemesis",
+		"name": "Bishop Nemesis",
+		"card_set_type_code": "nemesis"
+	},
+	{
+		"code": "magik",
+		"name": "Magik",
+		"card_set_type_code": "hero"
+	},
+	{
+		"code": "magik_nemesis",
+		"name": "Magik Nemesis",
+		"card_set_type_code": "nemesis"
+	},
+	{
+		"code": "unus",
+		"name": "Unus",
+		"card_set_type_code": "villain"
+	},
+	{
+		"code": "infinites",
+		"name": "Infinites",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "dystopian_nightmare",
+		"name": "Dystopian Nightmare",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "standard_iii",
+		"name": "Standard III",
+		"card_set_type_code": "standard"
+	},
+	{
+		"code": "four_horsemen",
+		"name": "Four Horsemen",
+		"card_set_type_code": "villain"
+	},
+	{
+		"code": "hounds",
+		"name": "Hounds",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "apocalypse",
+		"name": "Apocalypse",
+		"card_set_type_code": "villain"
+	},
+	{
+		"code": "dark_riders",
+		"name": "Dark Riders",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "dark_beast",
+		"name": "Dark Beast",
+		"card_set_type_code": "villain"
+	},
+	{
+		"code": "savage_land",
+		"name": "Savage Land",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "genosha",
+		"name": "Genosha",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "blue_moon",
+		"name": "Blue Moon",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "en_sabah_nur",
+		"name": "En Sabah Nur",
+		"card_set_type_code": "villain"
+	},
+	{
+		"code": "celestial_tech",
+		"name": "Celestial Tech",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "clan_akkaba",
+		"name": "Clan Akkaba",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "age_of_apocalypse",
+		"name": "Age of Apocalypse",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "aoa_mission",
+		"name": "Mission",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "aoa_campaign",
+		"name": "Campaign",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "overseer",
+		"name": "Overseer",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "prelates",
+		"name": "Prelates",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "iceman",
+		"name": "Iceman",
+		"card_set_type_code": "hero"
+	},
+	{
+		"code": "frostbite",
+		"name": "Frostbite",
+		"card_set_type_code": "hero"
+	},
+	{
+		"code": "iceman_nemesis",
+		"name": "Iceman Nemesis",
+		"card_set_type_code": "nemesis"
+	},
+	{
+		"code": "sauron",
+		"name": "Sauron",
 		"card_set_type_code": "modular"
 	}
 ]

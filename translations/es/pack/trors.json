@@ -71,7 +71,7 @@
 		"flavor": "\"Cuando uno lucha junto a dioses y monstruos, no basta con ser bueno; hay que ser el mejor.\" —Clint Barton",
 		"name": "Tirador experto",
 		"text": "<b>Recurso</b>: agota Tirador experto → genera un recurso [wild] para un Evento [[FLECHA]].",
-		"traits": "Flecha. Ataque."
+		"traits": "Habilidad."
 	},
 	{
 		"code": "04011",
@@ -86,7 +86,7 @@
 		"flavor": "\"Mientras la Espada Negra brilla en mi mano, debo luchar… ¡cueste lo que cueste!\"",
 		"name": "Caballero Negro",
 		"subname": "Dane Whitman",
-		"text": "El ataque básico del Caballero Negro gana Penetrante.",
+		"text": "[star] El ataque básico del Caballero Negro gana Penetrante.",
 		"traits": "Vengador."
 	},
 	{

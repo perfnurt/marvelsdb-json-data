@@ -1,7 +1,15 @@
 [
 	{
 		"code": "ant",
-		"name": "Ant-man"
+		"name": "Ant-Man"
+	},
+	{
+		"code": "angel",
+		"name": "Angel"
+	},    
+	{
+		"code": "aoa",
+		"name": "L'Ère d'Apocalypse"
 	},
 	{
 		"code": "bkw",
@@ -18,6 +26,10 @@
 	{
 		"code": "cyclops",
 		"name": "Cyclope"
+	},
+	{
+		"code": "deadpool",
+		"name": "Deadpool"
 	},
 	{
 		"code": "drax",
@@ -76,6 +88,10 @@
 		"name": "Nebula"
 	},
 	{
+		"code": "next_evol",  
+		"name": "NeXt Evolution"
+	},
+	{
 		"code": "nova",
 		"name": "Nova"
 	},
@@ -83,6 +99,10 @@
 		"code": "phoenix",
 		"name": "Phénix"
 	},
+	{
+		"code": "psylocke",
+		"name": "Psylocke"
+	},	
 	{
 		"code": "qsv",
 		"name": "Vif-Argent"
@@ -158,5 +178,9 @@
 	{
 		"code": "wsp",
 		"name": "La Guêpe"
+	},
+	{
+		"code": "x23",
+		"name": "X-23"
 	}
 ]

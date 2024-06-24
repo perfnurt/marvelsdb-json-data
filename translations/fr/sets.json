@@ -12,8 +12,20 @@
     "name": "Acolytes"
   },
   {
+    "code": "age_of_apocalypse",
+    "name": "Ère d'Apocalypse"
+  },
+  {
     "code": "anachronauts",
     "name": "Les Anachronautes"
+  },
+  {
+    "code": "angel",
+    "name": "Angel"
+  },
+  {
+    "code": "angel_nemesis",
+    "name": "Némésis d'Angel"
   },
   {
     "code": "ant",
@@ -22,6 +34,18 @@
   {
     "code": "ant_nemesis",
     "name": "Némésis d'Ant-Man"
+  },
+  {
+    "code": "aoa_campaign",
+    "name": "Campagne"
+  },
+  {
+    "code": "aoa_mission",
+    "name": "Mission"
+  },
+  {
+    "code": "apocalypse",
+    "name": "Apocalypse"
   },
   {
     "code": "armadillo",
@@ -48,6 +72,14 @@
     "name": "Hommes-Bêtes"
   },
   {
+    "code": "bishop",
+    "name": "Bishop"	
+  },
+  {
+    "code": "bishop_nemesis",
+    "name": "Némésis de Bishop"
+  },
+  {
     "code": "black_order",
     "name": "L'Ordre Noir"
   },
@@ -60,12 +92,20 @@
     "name": "Némésis de Black Panther"
   },
   {
+    "code": "black_tom_cassidy",
+    "name": "Black Tom Cassidy"
+  },
+  {
     "code": "black_widow",
     "name": "Black Widow"
   },
   {
     "code": "black_widow_nemesis",
     "name": "Némésis de Black Widow"
+  },
+  {
+    "code": "blue_moon",
+    "name": "Lune Bleue"
   },
   {
     "code": "bomb_scare",
@@ -92,6 +132,14 @@
     "name": "Le Bulldozer"
   },
   {
+    "code": "cable", 
+    "name": "Cable"
+  },
+  {
+    "code": "cable_nemesis", 
+    "name": "Némésis de Cable"
+  },
+  {
     "code": "captain_america",
     "name": "Captain America"
   },
@@ -108,6 +156,10 @@
     "name": "Némésis de Captain Marvel"
   },
   {
+    "code": "celestial_tech",
+    "name": "Technologie Céleste"
+  },
+  {
     "code": "challenge",
     "name": "Défi"
   },
@@ -118,6 +170,10 @@
   {
     "code": "city_in_chaos",
     "name": "Chaos dans la Ville"
+  },
+  {
+    "code": "clan_akkaba",
+    "name": "Clan Akkaba"
   },
   {
     "code": "collector1",
@@ -164,12 +220,36 @@
     "name": "Némésis de Cyclope"
   },
   {
+    "code": "dark_beast",
+    "name": "Le Fauve Noir"
+  },
+  {
+    "code": "dark_riders",
+    "name": "Dark Riders"
+  },
+  {
+    "code": "deadpool",
+    "name": "Deadpool"
+  },
+  {
+    "code": "deadpool_nemesis", 
+    "name": "Némésis de Deadpool"
+  },
+  {
     "code": "deathstrike",
     "name": "Deathstrike"
   },
   {
     "code": "defender",
     "name": "Défenseur"
+  },
+  {
+    "code": "domino", 
+    "name": "Domino"
+  },
+  {
+    "code": "domino_nemesis", 
+    "name": "Némésis de Domino"
   },
   {
     "code": "doctor_strange",
@@ -192,8 +272,20 @@
     "name": "Némésis de Drax"
   },
   {
+    "code": "dreadpool", 
+    "name": "Dreadpool"
+  },
+  {
+    "code": "dystopian_nightmare",
+    "name": "Cauchemar Dystopique"
+  },
+  {
     "code": "ebony_maw",
     "name": "Mâchoire d'Ébène"
+  },
+  {
+    "code": "en_sabah_nur",
+    "name": "En Sabah Nur"
   },
   {
     "code": "enchantress",
@@ -224,8 +316,20 @@
     "name": "Expert II"
   },
   {
+    "code": "extreme_measures",	
+    "name": "Mesures Extrêmes"
+  },
+  {
     "code": "fantasy",
     "name": "Fantasy"
+  },
+  {
+    "code": "flight",
+    "name": "Vol"
+  },
+  {
+    "code": "four_horsemen",
+    "name": "Quatre Cavaliers"
   },
   {
     "code": "frost_giants",
@@ -254,6 +358,10 @@
   {
     "code": "gambit_nemesis", 
     "name": "Némésis de Gambit"
+  },
+  {
+    "code": "genosha",
+    "name": "Génosha"
   },
   {
     "code": "ghost_spider",
@@ -296,8 +404,16 @@
     "name": "Hela"
   },
   {
+    "code": "hope_summers",	
+    "name": "Hope Summers"
+  },
+  {
     "code": "horror",
     "name": "Horreur"
+  },
+  {
+    "code": "hounds",
+    "name": "Chiens de Chasse"
   },
   {
     "code": "hulk",
@@ -318,6 +434,10 @@
   {
     "code": "hydra_patrol",
     "name": "Patrouille d'Hydra"
+  },
+  {
+    "code": "infinites",
+    "name": "Infinis"
   },
   {
     "code": "inheritors",
@@ -352,6 +472,10 @@
     "name": "Les Sinistres Six d'Iron Spider"
   },
   {
+    "code": "juggernaut",
+    "name": "Le Fléau"
+  },
+  {
     "code": "kang",
     "name": "Kang"
   },
@@ -384,6 +508,14 @@
     "name": "Longshot"
   },
   {
+    "code": "magik",
+    "name": "Magik"
+  },
+  {
+    "code": "magik_nemesis",
+    "name": "Némésis de Magik"
+  },
+  {
     "code": "magneto",
     "name": "Magnéto"
   },
@@ -394,6 +526,10 @@
   {
     "code": "mansion_attack",
     "name": "L'Attaque du Manoir"
+  },
+  {
+    "code": "marauders", 	
+    "name": "Maraudeurs"
   },
   {
     "code": "master_mold",
@@ -408,12 +544,24 @@
     "name": "Créatures de la Ménagerie"
   },
   {
+    "code": "military_grade", 	
+    "name": "Équipement Militaire"
+  },
+  {
     "code": "mister_hyde",
     "name": "Mister Hyde"
   },
   {
+    "code": "mister_sinister",
+    "name": "Mister Sinistre"
+  },
+  {
     "code": "mojo",
     "name": "Mojo"
+  },
+  {
+    "code": "morlock_siege", 
+    "name": "Le Siège des Morlocks"
   },
   {
     "code": "mot",
@@ -432,10 +580,6 @@
     "name": "Campage L'Ombre du Titan Fou"
   },
   {
-    "code": "mut_gen",
-    "name": "La Genèse des Mutants"
-  },
-  {
     "code": "mut_gen_campaign",
     "name": "Campagne La Genèse des Mutants"
   },
@@ -444,12 +588,24 @@
     "name": "Formule Mutagène"
   },
   {
+    "code": "mutant_insurrection",
+    "name": "Insurrection de Mutants"
+  },
+  {
+    "code": "mutant_slayers", 	
+    "name": "Tueurs de Mutants"
+  },
+  {
     "code": "mysterio",
     "name": "Mysterio"
   },
   {
     "code": "mystique",
     "name": "Mystique"
+  },
+  {
+    "code": "nasty_boys",
+    "name": "Mauvais Garçons"
   },
   {
     "code": "nebu",
@@ -464,6 +620,10 @@
     "name": "Nebula"
   },
   {
+    "code": "next_evol_campaign",	
+    "name": "Campagne Next Evolution"
+  },
+  {
     "code": "nova",
     "name": "Nova"
   },
@@ -472,8 +632,16 @@
     "name": "Némésis de Nova"
   },
   {
+    "code": "on_the_run", 
+    "name": "En Fuite"
+  },
+  {
     "code": "osborn_tech",
     "name": "Technologie Osborn"
+  },
+  {
+    "code": "overseer",
+    "name": "Hiérarque"
   },
   {
     "code": "peacekeeper",
@@ -504,8 +672,20 @@
     "name": "Pierre du Pouvoir"
   },
   {
+    "code": "prelates",
+    "name": "Prélats"
+  },
+  {
     "code": "project_wideawake",
     "name": "Projet Wideawake"
+  },
+  {
+    "code": "psylocke",
+    "name": "Psylocke"
+  },
+  {
+    "code": "psylocke_nemesis",
+    "name": "Némésis de Psylocke"
   },
   {
     "code": "qsv",
@@ -566,6 +746,10 @@
   {
     "code": "sandman",
     "name": "L'Homme-Sable"
+  },
+  {
+    "code": "savage_land",
+    "name": "Terre Sauvage"
   },
   {
     "code": "sci-fi",
@@ -696,6 +880,10 @@
     "name": "Standard II"
   },
   {
+    "code": "standard_iii",
+    "name": "Standard III"
+  },
+  {
     "code": "state_of_emergency",
     "name": "État d'Urgence"
   },
@@ -720,12 +908,24 @@
     "name": "Rues Malfamées"
   },
   {
+    "code": "stryfe",
+    "name": "Stryfe"
+  },
+  {
+    "code": "super_strength",	
+    "name": "Super Force"
+  },
+  {
     "code": "symbiotic_strength",
     "name": "Force Symbiotique"
   },
   {
     "code": "taskmaster",
     "name": "Taskmaster"
+  },
+  {
+    "code": "telepathy",
+    "name": "Télépathie"
   },
   {
     "code": "temporal",
@@ -770,6 +970,10 @@
   {
     "code": "under_attack",
     "name": "Civils Attaqués"
+  },
+  {
+    "code": "unus",
+    "name": "Unus"
   },
   {
     "code": "valk",
@@ -862,6 +1066,14 @@
   {
     "code": "wsp_nemesis",
     "name": "Némésis de la Guêpe"
+  },
+  {
+    "code": "x23", 
+    "name": "X-23"
+  },
+  {
+    "code": "x23_nemesis", 
+    "name": "Némésis de X-23" 
   },
   {
     "code": "zero_tolerance",
